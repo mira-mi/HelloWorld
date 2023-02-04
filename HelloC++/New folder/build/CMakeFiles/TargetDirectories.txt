@@ -1,0 +1,3 @@
+C:/Users/374820/New folder/build/CMakeFiles/hello_app,.dir
+C:/Users/374820/New folder/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/374820/New folder/build/CMakeFiles/ZERO_CHECK.dir
